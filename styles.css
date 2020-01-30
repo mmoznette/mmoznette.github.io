@@ -3,6 +3,10 @@
   * Secondary Color: coral
 */
 
+Body {
+  Background: chartreuse;
+}
+
 h1 {
   color: slategray;
   font-family: Orbitron, "roboto", sans-serif;
