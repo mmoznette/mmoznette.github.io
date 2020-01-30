@@ -1,0 +1,24 @@
+/*  Style Guide
+  * Primary Color: Red
+  * Secondary Color: coral
+*/
+
+h1 {
+  color: slategray;
+  font-family: Orbitron, "roboto", sans-serif;
+  font-size: 48px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+
+p {
+  color: coral;
+}
+
+/* Typography 
+  *Primary Font:
+*/
+
+img {
+      width: 100%;
+}
