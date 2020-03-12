@@ -10,7 +10,7 @@ Body {
 }
 
 h1 {
-  color: slategray;
+  color: rgb(0, 128, 255);
   font-family: Orbitron, "roboto", sans-serif;
   font-size: 48px;
   letter-spacing: 6px;
