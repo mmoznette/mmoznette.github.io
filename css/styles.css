@@ -80,4 +80,5 @@ h3 {
 
 .fullsize img:target  {
   opacity: 1;
+  transition: opacity .5s;
 }
