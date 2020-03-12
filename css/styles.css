@@ -74,11 +74,10 @@ h3 {
 }
 
 .fullsize img {
-  opacity: 0; 
+  opacity: 5; 
   width: 50%;
 }
 
 .fullsize img:target  {
-  opacity: 1;
-  transition: opacity .5s;
+  opacity: 0;
 }
