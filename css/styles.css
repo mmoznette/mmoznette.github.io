@@ -44,15 +44,15 @@ h3 {
 }
 
 .thumbs li:nth-child(1) img {
-  border: 1px solid red;  
+  border: 8px solid red;  
 }
 
 .thumbs li:nth-child(2) img {
-  border: 10px solid rgb(255, 238, 3);  
+  border: 8px solid rgb(255, 238, 3);  
 }
 
 .thumbs li:nth-child(3) img {
-  border: 10px solid blue;  
+  border: 8px solid blue;  
 }
 
 #fullsize-1 {
