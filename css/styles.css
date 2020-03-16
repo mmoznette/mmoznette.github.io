@@ -74,4 +74,5 @@ h3 {
 
 .fullsize img:target  {
   opacity: 5;
+  width: 50%;
 }
